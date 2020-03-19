@@ -1,0 +1,23 @@
+body{
+    background-color: chartreuse;
+    margin-top: 0;
+}
+
+
+
+header{
+    background-color: snow;
+    text-align: center;
+}
+
+.Quiz{
+    text-align: center;
+}
+
+.AnswerO{
+    color: red;
+}
+
+.AnswerX{
+    color: blue;
+}
